@@ -1,0 +1,93 @@
+*{
+    background-color:#F7F7F7;
+}
+
+/*global values has to be added */
+
+.logo {
+    border-radius: 50%;
+    height: 27px;
+    width: 27px;
+    box-shadow: inset 0px 0px 0px 8px rgb(255, 255, 255);   
+    margin: 27px;
+}
+
+ul li{
+    display: inline-block;
+    margin-right: 40px;
+}
+
+
+/* ???????*/
+img {
+    width: 1440px;
+    height: 900px;
+}
+
+
+/* here starts CSS for slider */
+.slider-title h1 {
+    size: 30px;
+    text-transform: uppercase;
+    letter-spacing: 9px;
+    line-height: 44px;
+    color: white;
+}
+
+
+/* here starts CSS for white blocks */
+.descriptions {
+    width: 1260px;
+    height: 372px;
+    background-color: white;
+}
+
+.large-description {
+    width: 655px;
+    background-color:rgb(20, 212, 3);
+}
+
+.large-description h3 {
+    background-color: white;
+    font-family: Brandon Grotesque;
+    font-weight: bold;
+    size: 25px;
+    line-height: 30px;
+    letter-spacing: 5px;
+    color: #262626;
+    text-transform: uppercase;
+}
+
+.large-description p {
+    font-family: Tisa OT;
+    font-weight: bold;
+    size: 18px;
+    line-height: 33.3px;
+    color: #434343;
+    background-color: white;
+}
+
+.small-description {
+    width: 216px;
+    background-color: rgb(161, 0, 0);
+}
+
+.small-description h3 {
+    background-color: white;
+    font-family: Brandon Grotesque;
+    font-weight: bold;
+    size: 25px;
+    line-height: 30px;
+    letter-spacing: 5px;
+    color: #262626;
+    text-transform: uppercase;
+}
+
+.small-description p {
+    font-family: Tisa OT;
+    font-weight: bold;
+    size: 18px;
+    line-height: 33.3px;
+    color: #434343;
+    background-color: white;
+}
