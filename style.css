@@ -62,6 +62,7 @@ a {
     height: 900px;
     margin: 0 auto;
     position: relative;
+    margin-bottom: 45px;
 }
 
 .slider img {
@@ -86,7 +87,7 @@ a {
 /* here starts CSS for white blocks */
 .descriptions {
     max-width: 1260px;
-    margin: 30px auto;
+    margin: 0 auto;
     width: 100%;
     height: 372px;
     background-color: white;
@@ -156,4 +157,56 @@ a {
     line-height: 33.3px;
     color: #434343;
     background-color: white;
+}
+.article-section{
+   max-width: 1260px;
+   width: 100%;
+   margin: auto;
+   padding-bottom: 120px;
+   padding-left: 90px;
+}
+.button-box{
+    width: 79px;
+    display: inline-block;
+    margin-bottom: 72px;
+}
+.button-box1{
+    width: 87.33px;
+    background-color: #0865DE;
+    display: inline-block;
+    height: 34px;
+    margin-left: 30px;
+    margin-bottom: 72px;
+    padding-top: 10px;
+}
+.button-box1 h6{
+    background-color: transparent;
+    text-align: center;
+    color: white;
+    
+}
+.article-title h3{
+   width: 616px;
+   margin-bottom: 72px;
+   size: 32.7px;
+   color: #262626;
+}
+.article-title p{
+    width: 1016px;
+    line-height: 44px;
+}
+.bottom-links p{
+    size: 14px;
+    display: inline-block;
+    margin-right: 90px;
+}
+.bottom-links a{
+    size: 14px;
+    display: inline-block;
+    margin-right: 90px;
+    color: #262626;
+}
+.bottom-links{
+    margin-top: 60px;
+
 }
