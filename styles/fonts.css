@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Brandon Grotesque';
+    src: url('../fonts/BrandonGrotesque-Black.eot');
+    src: url('../fonts/BrandonGrotesque-Black.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/BrandonGrotesque-Black.woff2') format('woff2'),
+        url('../fonts/BrandonGrotesque-Black.woff') format('woff'),
+        url('../fonts/randonGrotesque-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}

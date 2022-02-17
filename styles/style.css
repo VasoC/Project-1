@@ -36,6 +36,7 @@ ul li{
     display: inline-block;
     margin-right: 40px;
     background-color: transparent;
+    font-family: 'brandon Grotesque';
 }
 
 ul {
@@ -108,7 +109,7 @@ a {
 
 .large-description h3 {
     background-color: white;
-    font-family: Brandon Grotesque;
+    font-family: 'brandon Grotesque';
     font-weight: bold;
     size: 25px;
     line-height: 30px;
@@ -140,7 +141,7 @@ a {
 
 .small-description h3 {
     background-color: white;
-    font-family: Brandon Grotesque;
+    font-family: 'brandon Grotesque';
     font-weight: bold;
     size: 25px;
     line-height: 30px;
@@ -183,6 +184,7 @@ a {
     background-color: transparent;
     text-align: center;
     color: white;
+    font-family: 'brandon Grotesque';
     
 }
 .article-title h3{
@@ -190,6 +192,8 @@ a {
    margin-bottom: 72px;
    size: 32.7px;
    color: #262626;
+   font-family: 'brandon Grotesque';
+   text-transform: uppercase;
 }
 .article-title p{
     width: 1016px;
@@ -199,6 +203,7 @@ a {
     size: 14px;
     display: inline-block;
     margin-right: 90px;
+    font-family: 'brandon Grotesque';
 }
 .bottom-links a{
     size: 14px;
